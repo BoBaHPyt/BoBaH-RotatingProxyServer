@@ -1,0 +1,6 @@
+aiodns==3.0.0
+cffi==1.15.1
+greenlet==0.4.13
+hpy==0.0.4
+pycares==4.3.0
+readline==6.2.4.1
